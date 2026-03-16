@@ -1,1 +1,278 @@
-[ Your Facebook cookies ]
+[
+
+Import FBState (base64)
+
+Export FBState
+
+Export FBState (encrypted)
+
+Export FBState (base64)
+
+Logout (not die fbstate)
+
+Your Fbstate Here:
+
+{
+
+Import FBState (encrypted)
+
+"key": "datr",
+
+"value": "08e3aZw_AyUwk5JNAfSpiPwu", "domain": "facebook.com",
+
+"path": "/",
+
+"hostOnly": false,
+
+
+"creation": "2026-03-16T09:24:35.140Z",
+
+"lastAccessed": "2026-03-16T09:24:35.142Z{
+
+},
+
+"key": "sb",
+
+"value": "08e3aduLB7_m45WCv_XuJLXt",
+
+"domain": "facebook.com",
+
+"path": "/",
+
+"hostOnly": false,
+
+"creation": "2026-03-16T09:24:35.142Z",
+
+"lastAccessed": "2026-03-16T09:24, {
+
+Import FBState (encrypted)
+
+"key": "m_pixel_ratio",
+
+"value": "2",
+
+"domain": "facebook.com",
+
+"path": "/",
+
+"hostOnly": false,
+
+"creation": "2026-03-16T09:24:35.142Z",
+
+"lastAccessed": "2026-03-16T09:24:35.142Z},
+
+Import FBState (encrypted)
+
+Import FBState (base64)
+
+Export FBState
+
+Export FBState (encrypted)
+
+Export FBState (base64)
+
+Logout (not die fbstate)
+
+Your Fbstate Here:
+
+},
+
+"key": "wd",
+
+"value": "360x820",
+
+"domain": "facebook.com",
+
+"path": "/",
+
+"hostOnly": false,
+
+"creation": "2026-03-16T09:24:35.142Z",
+
+"lastAccessed": "2026-03-16T09:24:35.142Z,
+
+Import FBState (encrypted)
+
+Import FBState (base64)
+
+Export FBState
+
+Export FBState (encrypted)
+
+Export FBState (base64)
+
+Logout (not die fbstate)
+
+Your Fbstate Here:
+
+},
+
+"key": "c_user",
+
+"value": "61584068287677",
+
+"domain": "facebook.com",
+
+"path": "/",
+
+"hostOnly": false,
+
+"creation": "2026-03-16T09:24:35.142Z",
+
+"lastAccessed": "2026-03-16T09:24:35.142Z",
+
+C3C FBState Utility
+
+hongquangtuong 50
+
+Etanolon Ov 1000
+
+Google
+
+Overview
+
+Importaxport footate.json which can be used to let bot login.
+
+ông cụ đơn giản đề xuấthhão cookies. Cha sẽ số khoản trực tuyến mà không tiết lộ mật khẩu của bạn.
+
+Một tiên khi mở rộng đơn giần đề xuất thấp cockle. Chia sẻ tài khoản trực tuyến mà không cần tiết lộ mật khẩu
+
+Import FBState (encrypted)
+
+Import FBState (base64)
+
+Export FBState
+
+Export FBState (encrypted)
+
+Export FBState (base64)
+
+Logout (not die fbstate)
+
+Your Fbstate Here:
+
+4.8
+
+"key": "xs",
+
+"value": "2%3AtSrsMUEwVJ8E0Q%3A2%3A1773652112%3A-
+
+1%3A-1",
+
+"domain": "facebook.com",
+
+"path": "/",
+
+"hostOnly": false,
+
+"creation": "2026-03-16T09:24:35.142Z",
+
+"lastAccessed": "2026-03-16T09:24:35.142Z"{
+
+Import FBState (encrypted)
+
+Import FBState (base64)
+
+Export FBState
+
+Export FBState (encrypted)
+
+Export FBState (base64)
+
+Logout (not die fbstate)
+
+Your Fbstate Here:
+
+"key": "fr",
+
+"value":
+
+"OkHyHukyOoYGwjBj8.AWevN75nAwjyVgnnn2NXP03aYrHfDasMAL5z AT9L_i6VfOtbq7Y.Bpt8fT..AAA.0.0.Bpt8mx.AWd_4Wlz_C5lfvuBJARli
+
+6zFDfk",
+
+"domain": "facebook.com",
+
+"path": "/",
+
+"hostOnly": false,
+
+"creation" "2026-03-16T09:24:35 1427""key": "locale",
+
+"value": "bn_IN",
+
+"domain": "facebook.com",
+
+"path": "/", "hostOnly": false,
+
+"creation": "2026-03-16T09:24:35.142Z",
+
+"lastAccessed": "2026-03-16T09:24:35.142Z"
+
+}, { },
+
+"key": "pas", "value": "61584068287677%3AFJjxi3IkHc",
+
+"domain": "facebook.com",
+
+"path": "/",
+
+"hostOnly": false,
+
+"creation": "2026-03-16T09:24:35.142Z",
+
+"lastAccessed": "2026-03-16T09:24:35.142Z"key": "wl_cbv",
+
+{ "value": "domain": "facebook.com",
+
+Import FBState (encrypted)
+
+"v2%3Bclient_version%3A3112%3Btimestamp%3A1773652401",
+
+"path": "/",
+
+"hostOnly": false,
+
+"creation": "2026-03-16T09:24:35.142Z",
+
+"lastAccessed": "2026-03-16T09:24:35.142Z}, { }, "key": "fbl_st",
+
+"value": "101739346%3BT%3A29560873",
+
+"domain": "facebook.com",
+
+"path": "/",
+
+"hostOnly": false,
+
+"creation": "2026-03-16T09:24:35.142Z",
+
+"lastAccessed": "2026-03-16T09:24:{
+
+Export FBState
+
+Export FBState (encrypted)
+
+Export FBState (base64)
+
+Logout (not die fbstate)
+
+Your Fbstate Here:
+
+"domain": "facebook.com",
+
+"path": "/",
+
+"hostOnly": false,
+
+"creation": "2026-03-16T09:24:35.142Z",
+
+"lastAccessed": "2026-03-16T09:24:35.142Z"
+
+"key": "vpd",
+
+"value": "v1%3B676x360x2",
+
+"domain": "facebook.com",
+
+"nath": "/
